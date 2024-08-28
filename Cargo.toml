@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 authors = ["ShizulaKokoro"]
+description = "A simple wav file loader"
 
 [dependencies]
