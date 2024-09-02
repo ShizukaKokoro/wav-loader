@@ -5,5 +5,6 @@ edition = "2021"
 license = "MIT"
 authors = ["ShizulaKokoro"]
 description = "A simple wav file loader"
+repository = "https://github.com/ShizukaKokoro/wav-loader"
 
 [dependencies]
